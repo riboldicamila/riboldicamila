@@ -7,8 +7,6 @@ Frontend Developer
 Frontweb developer in the making...
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [Loading...](http://loading)
-* ✉️  You can contact me at [cami.riboldi@gmail.com](mailto:cami.riboldi@gmail.com)
 * 🧠  I'm learning React
 
 ### Skills
