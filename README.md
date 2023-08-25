@@ -1,7 +1,7 @@
 Hi 👋 My name is Camila Riboldi
 ===============================
 
-Frontend Developer
+aspire to Frontend Developer  
 ------------------
 
 
