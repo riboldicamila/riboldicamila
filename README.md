@@ -4,7 +4,6 @@ Hi 👋 My name is Camila Riboldi
 Frontend Developer
 ------------------
 
-Frontweb developer in the making...
 
 
 
