@@ -6,8 +6,7 @@ Frontend Developer
 
 Frontweb developer in the making...
 
-* 🌍  I'm based in Buenos Aires, Argentina
-* 🧠  I'm learning React
+
 
 ### Skills
 
