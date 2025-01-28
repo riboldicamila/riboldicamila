@@ -2,7 +2,7 @@ Hi 👋 I'm Camila Riboldi
 ===============================
 ------------------
 
-<ul>
+<ul style="list-style-type: none; padding-left: 0;">
   <li>👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
   <li>👩🏻‍💻 Software Engineer | fullstack → frontend-focused with React</li>
   <li>💭 Currently learning about Node.js</li>
@@ -10,9 +10,8 @@ Hi 👋 I'm Camila Riboldi
   <li>🏢 2+ years of work experience in corporate</li>
 </ul>
 
-Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/)
 
-Website: https://camila-riboldi.vercel.app/
+Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/)
 
 ### Skills
 
