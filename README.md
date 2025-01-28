@@ -2,11 +2,15 @@ Hi 👋 I'm Camila Riboldi
 ===============================
 ------------------
 
-👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina
-👩🏻‍💻 Software Engineer | fullstack --> frontend-focused with React
-💭 Currently learning about Node.js
-💻 Tech Stack: React.js, Python, SQL 
-🏢 2yrs + work experience in cooporate 
+<ul>
+  <li>👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
+  <li>👩🏻‍💻 Software Engineer | fullstack → frontend-focused with React</li>
+  <li>💭 Currently learning about Node.js</li>
+  <li>💻 Tech Stack: React.js, Python, SQL</li>
+  <li>🏢 2+ years of work experience in corporate</li>
+</ul>
+
+Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/)
 
 Website: https://camila-riboldi.vercel.app/
 
