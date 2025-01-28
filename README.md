@@ -1,8 +1,9 @@
 Hi 👋 I'm Camila Riboldi
 ===============================
 ------------------
-
-![Camila's Banner](https://i.pinimg.com/736x/0d/c5/0f/0dc50f1e23412b6106fdfafe717890b8.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/0d/c5/0f/0dc50f1e23412b6106fdfafe717890b8.jpg" alt="Camila's Banner" width="100%" />
+</p>
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
