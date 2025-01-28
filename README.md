@@ -1,12 +1,16 @@
-Hi 👋 My name is Camila Riboldi
+Hi 👋 I'm Camila Riboldi
 ===============================
 ------------------
 
+👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina
+👩🏻‍💻 Software Engineer | fullstack --> frontend-focused with React
+💭 Currently learning about Node.js
+💻 Tech Stack: React.js, Python, SQL 
+🏢 2yrs + work experience in cooporate 
 
-
+Website: https://camila-riboldi.vercel.app/
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
