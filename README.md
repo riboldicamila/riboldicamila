@@ -5,10 +5,12 @@ Hi 👋 I'm Camila Riboldi
   <img src="https://i.pinimg.com/736x/0d/c5/0f/0dc50f1e23412b6106fdfafe717890b8.jpg" alt="Camila's Banner" width="100%" height= "200px" />
 </p>
 
--👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
--👩🏻‍💻 Software Engineer | fullstack → frontend-focused with React</li>
--💭 Currently learning about Node.js</li>
--🏢 2+ years of work experience in corporate</li>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
+  <li>👩🏻‍💻 Software Engineer | fullstack → frontend-focused with React</li>
+  <li>💭 Currently learning about Node.js</li>
+  <li>🏢 2+ years of work experience in corporate</li>
+</ul>
 
 Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/)
 
