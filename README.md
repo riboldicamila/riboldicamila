@@ -2,7 +2,7 @@ Hi 👋 I'm Camila Riboldi
 ===============================
 ------------------
 <p align="center">
-  <img src="https://i.pinimg.com/736x/0d/c5/0f/0dc50f1e23412b6106fdfafe717890b8.jpg" alt="Camila's Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/0d/c5/0f/0dc50f1e23412b6106fdfafe717890b8.jpg" alt="Camila's Banner" width="100%" height= "40px" />
 </p>
 
 <ul style="list-style-type: none; padding-left: 0;">
