@@ -6,7 +6,6 @@ Hi 👋 I'm Camila Riboldi
   <li>👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
   <li>👩🏻‍💻 Software Engineer | fullstack → frontend-focused with React</li>
   <li>💭 Currently learning about Node.js</li>
-  <li>💻 Tech Stack: React.js, Python, SQL</li>
   <li>🏢 2+ years of work experience in corporate</li>
 </ul>
 
