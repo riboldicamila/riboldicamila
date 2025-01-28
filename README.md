@@ -12,7 +12,7 @@ Hi 👋 I'm Camila Riboldi
   <li>🏢 2+ years of work experience in corporate</li>
 </ul>
 
-Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/) --> Click [here](https://camila-riboldi.vercel.app/](https://github.com/riboldicamila/camila-riboldi-portfolio) for repository
+Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/) | Click [here](https://github.com/riboldicamila/camila-riboldi-portfolio) for the repository
 
 
 ### 💻 Tech Stack:
