@@ -8,7 +8,7 @@ Hi 👋 I'm Camila Riboldi
 <ul style="list-style-type: none; padding-left: 0;">
   <li>👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
   <li>👩🏻‍💻 Software Engineer | fullstack → frontend-focused with React</li>
-  <li>💭 Currently learning about Node.js</li>
+  <li>💭 Currently learning about Node.js. MERN tech stack. </li>
   <li>🏢 2+ years of work experience in corporate</li>
 </ul>
 <br>
