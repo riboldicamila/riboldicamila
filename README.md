@@ -17,11 +17,12 @@ Updated website: https://riboldi-camila-sw.vercel.app/
 Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/)  
 Click [here](https://github.com/riboldicamila/camila-riboldi-portfolio) for the repository
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>👩🏻‍🎓 Videos about what I am learning, going through code, and trying to improve my skills.</li>
-  <li>Click [here](https://www.youtube.com/watch?v=_ggpUsMmzIE&t=1s&ab_channel=Camila.R) walkthrough Redux code </li>
-  <li>Click [here](https://www.youtube.com/watch?v=NpYvNChbdcw&t=11s&ab_channel=Camila.R) walkthrough MERN code
-</ul>
+------------------
+👩🏻‍🎓 Videos about what I am learning, going through code, and trying to improve my skills.
+
+- Click [here](https://www.youtube.com/watch?v=_ggpUsMmzIE&t=1s&ab_channel=Camila.R) for a walkthrough of Redux code.
+- Click [here](https://www.youtube.com/watch?v=NpYvNChbdcw&t=11s&ab_channel=Camila.R) for a walkthrough of MERN code.
+
 
 ------------------
 ### 💻 Tech Stack:
