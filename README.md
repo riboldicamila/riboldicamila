@@ -6,9 +6,8 @@ Hi 👋 I'm Camila Riboldi
 </p>
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>👩🏻‍🎓 Studied Information System at the University of Buenos Aires, Argentina</li>
+  <li>👩🏻‍🎓 Studied Information Systems at the University of Buenos Aires, Argentina</li>
   <li>👩🏻‍💻 Software Engineer | fullstack → frontend-focused with React</li>
-  <li>💭 Currently learning about Node.js. MERN tech stack. </li>
   <li>🏢 2+ years of work experience in corporate</li>
 </ul>
 <br>
@@ -16,13 +15,6 @@ Hi 👋 I'm Camila Riboldi
 Updated website: https://riboldi-camila-sw.vercel.app/
 Website: [https://camila-riboldi.vercel.app/](https://camila-riboldi.vercel.app/)  
 Click [here](https://github.com/riboldicamila/camila-riboldi-portfolio) for the repository
-
-------------------
-👩🏻‍🎓 Videos about what I am learning, going through code, and trying to improve my skills.
-
-- Click [here](https://www.youtube.com/watch?v=_ggpUsMmzIE&t=1s&ab_channel=Camila.R) for a walkthrough of Redux code.
-- Click [here](https://www.youtube.com/watch?v=NpYvNChbdcw&t=11s&ab_channel=Camila.R) for a walkthrough of MERN code.
-
 
 ------------------
 ### 💻 Tech Stack:
